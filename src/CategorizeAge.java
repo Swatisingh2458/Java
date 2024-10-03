@@ -17,7 +17,7 @@ public class CategorizeAge {
             System.out.println("Teenage");
         }
         else {
-            System.out.println("Child");
+            System.out.println("Childss");
         }
     }
 }
